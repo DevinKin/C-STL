@@ -1,0 +1,89 @@
+
+* 第九章笔记
+** 9.2 迭代器种类
+[[/home/king/.emacs.img/11533yAg.png]]
+
+[[/home/king/.emacs.img/11533_Km.png]]
+
+
+*** 9.2.1 Output 迭代器的操作
+[[/home/king/.emacs.img/11533Zfy.png]]
+
+
+*** 9.2.2 Input 迭代器
+[[/home/king/.emacs.img/11533LpB.png]]
+
+
+*** Bidrectional(双向迭代器)
+[[/home/king/.emacs.img/11533YzH.png]]
+
+
+*** 9.2.5 Random-Access(随机访问)迭代器
+[[/home/king/.emacs.img/11533l9N.png]]
+
+
+
+** 9.3 迭代器相关的辅助函数
+[[/home/king/.emacs.img/11533_Ra.png]]
+
+
+*** 9.3.1 advance()
+[[/home/king/.emacs.img/11533lEC.png]]
+
+
+*** 9.3.2 next()和prev()
+[[/home/king/.emacs.img/11533yOI.png]]
+[[/home/king/.emacs.img/11533_YO.png]]
+
+*** 9.3.3 distance()
+[[/home/king/.emacs.img/11533AMt.png]]
+
+
+*** 9.3.4 iter_swap()
+[[/home/king/.emacs.img/11533NWz.png]]
+
+
+
+**9.4 迭代器适配器(Iterator Adapter)
+
+***9.4.1 Reverse(反向)迭代器
+1. base()函数将反向迭代器变为正向。
+
+2. list<int>::const_reverse_iterator rpos(pos);
+
+
+
+** 9.4 迭代器适配器
+   
+*** 9.4.2 Insert(安插型)迭代器
+[[/home/king/.emacs.img/11533_fC.png]]
+[[/home/king/.emacs.img/11533MqI.png]]
+
+1. Insert迭代器的种类
+[[/home/king/.emacs.img/11533Ndn.png]]
+
+
+
+*** 9.4.3 Stream(串流）迭代器
+1. Ostream 迭代器
+[[/home/king/.emacs.img/11533ant.png]]
+[[/home/king/.emacs.img/11533nxz.png]]
+[[/home/king/.emacs.img/11533zPP.png]]
+
+
+
+2. Istream 迭代器
+[[/home/king/.emacs.img/11533AaV.png]]
+[[/home/king/.emacs.img/11533Nkb.png]]
+
+
+
+*** 9.4.4 Move（搬移迭代器)
+[[/home/king/.emacs.img/11533n4n.png]]
+
+
+** 9.5 Iterator Trait(迭代器特性)
+
+[[/home/king/.emacs.img/18723hM0.png]]
+[[/home/king/.emacs.img/18723TWD.png]]
+[[/home/king/.emacs.img/18723ggJ.png]]
