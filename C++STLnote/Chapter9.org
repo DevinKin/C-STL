@@ -87,3 +87,7 @@
 [[/home/king/.emacs.img/18723hM0.png]]
 [[/home/king/.emacs.img/18723TWD.png]]
 [[/home/king/.emacs.img/18723ggJ.png]]
+
+
+*** 9.5.1 为迭代器编写泛型函数
+[[/home/king/.emacs.img/12643Lcl.png]]

@@ -1,0 +1,10 @@
+* 第十章笔记
+
+** 10.1 Function Object(函数对象)的概念
+[[/home/king/.emacs.img/12953EsV.png]]
+
+
+
+*** 10.1.2 Function Object拥有内部状态(Interal State)
+
+[[/home/king/.emacs.img/12953R2b.png]]
