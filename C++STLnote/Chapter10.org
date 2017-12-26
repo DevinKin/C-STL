@@ -8,3 +8,17 @@
 *** 10.1.2 Function Object拥有内部状态(Interal State)
 
 [[/home/king/.emacs.img/12953R2b.png]]
+
+
+** 10.2 预定义的Function Object和Binder
+[[/home/king/.emacs.img/12953rKo.png]]
+
+*** 10.2.1 预定义的Function Object
+
+[[/home/king/.emacs.img/129534Uu.png]]
+
+
+*** 10.2.2 Function Adapter 和 Binder
+[[/home/king/.emacs.img/12953Ff0.png]]
+
+[[/home/king/.emacs.img/129533oD.png]]
