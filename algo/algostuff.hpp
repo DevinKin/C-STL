@@ -38,8 +38,7 @@ inline void PRINT_ELEMENTS(const T& coll,
 	std::cout << optcstr;
 	for (auto elem : coll)
 	{
-		std::cout << '[' << elem.first 
-				  << ',' << elem.second << "]";
+		std::cout << elem << ' ';
 	}
 	std::cout << std::endl;
 }
