@@ -65,3 +65,31 @@
 
 3. 查找最后一个子区间
 [[/home/king/.emacs.img/204963bM.png]]
+
+
+3. 查找某些元素第一次出现地点
+[[/home/king/.emacs.img/20496EmS.png]]
+[[/home/king/.emacs.img/20496RwY.png]]
+
+
+4. 查找两个连续且相等的元素
+[[/home/king/.emacs.img/20496e6e.png]]
+[[/home/king/.emacs.img/20496rEl.png]]
+
+
+
+*** 11.5.4 区间的比较
+1. 检验相等性
+[[/home/king/.emacs.img/20496FZx.png]]
+
+
+2. 测试不定序之相等性
+[[/home/king/.emacs.img/20496EtG.png]]
+
+
+3. 查找第一处不同
+[[/home/king/.emacs.img/20496R3M.png]]
+
+
+4. 检验一个区间是否小于另一个区间
+[[/home/king/.emacs.img/20496rLZ.png]]
