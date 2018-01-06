@@ -43,3 +43,25 @@
 数值算法以各种不同的方式结合数值元素。
 [[/home/king/.emacs.img/15070C8t.png]]
 
+
+
+** 11.5 非更易型算法
+*** 11.5.1 元素计数
+[[/home/king/.emacs.img/6067HlO.png]]
+
+
+*** 11.5.2 最小值和最大值
+[[/home/king/.emacs.img/6067UvU.png]]
+[[/home/king/.emacs.img/6067h5a.png]]
+
+
+*** 11.5.3 查找元素
+[[/home/king/.emacs.img/6067uDh.png]]
+
+
+2. 查找前n个连续匹配值
+[[/home/king/.emacs.img/60677Nn.png]]
+
+
+3. 查找最后一个子区间
+[[/home/king/.emacs.img/204963bM.png]]
