@@ -93,3 +93,91 @@
 
 4. 检验一个区间是否小于另一个区间
 [[/home/king/.emacs.img/20496rLZ.png]]
+
+
+*** 11.5.5 Predicate 用以检验区间
+1. 检验是否排序(或局部排序)
+
+[[/home/king/.emacs.img/23955WUd.png]]
+[[/home/king/.emacs.img/23955jej.png]]
+
+
+2. 检验是否被分割
+[[/home/king/.emacs.img/23955wop.png]]
+[[/home/king/.emacs.img/23955K91.png]]
+
+
+3. 检验是否形成Heap(最大值元素在第一位)
+[[/home/king/.emacs.img/239558GF.png]]
+
+4. 检验All、Any或None
+[[/home/king/.emacs.img/23955WbR.png]]
+
+
+
+** 11.6 更易型算法
+
+*** 11.6.1 复制元素
+    [[/home/king/.emacs.img/23955XOw.png]]
+[[/home/king/.emacs.img/23955kY2.png]]
+
+
+
+
+*** 11.6.2 搬移元素
+[[/home/king/.emacs.img/23955WiF.png]]
+
+*** 11.6.3 转换和结合元素
+1. 转换元素
+[[/home/king/.emacs.img/23955jsL.png]]
+
+2. 将两序列的元素结合
+[[/home/king/.emacs.img/23955w2R.png]]
+[[/home/king/.emacs.img/239559AY.png]]
+
+*** 11.6.4 互换元素
+[[/home/king/.emacs.img/23955KLe.png]]
+
+
+*** 11.6.5 赋值
+1. 赋予相同数值
+[[/home/king/.emacs.img/23955kfq.png]]
+
+
+2. 赋予新生值
+[[/home/king/.emacs.img/23955xpw.png]]
+[[/home/king/.emacs.img/23955-z2.png]]
+
+2. 赋予一系列递增值
+[[/home/king/.emacs.img/23955w9F.png]]
+
+*** 11.6.6 替换元素
+1. 替换序列内的元素
+[[/home/king/.emacs.img/239559HM.png]]
+[[/home/king/.emacs.img/23955KSS.png]]
+
+
+2. 复制并替换元素
+[[/home/king/.emacs.img/23955kme.png]]
+
+
+** 11.7 移除型算法
+
+*** 11.7.1 移除某些元素
+1. 移除序列内的元素
+[[/home/king/.emacs.img/154490Rs.png]]
+
+
+2. 复制时一并移除元素
+[[/home/king/.emacs.img/15449AwH.png]]
+
+
+*** 11.7.2 移除重复元素
+1. 移除连续重复元素
+[[/home/king/.emacs.img/15449N6N.png]]
+[[/home/king/.emacs.img/15449aEU.png]]
+
+2. 复制过程中移除重复元素
+[[/home/king/.emacs.img/15449nOa.png]]
+[[/home/king/.emacs.img/154490Yg.png]]
+
