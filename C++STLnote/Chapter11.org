@@ -127,6 +127,7 @@
 *** 11.6.2 搬移元素
 [[/home/king/.emacs.img/23955WiF.png]]
 
+
 *** 11.6.3 转换和结合元素
 1. 转换元素
 [[/home/king/.emacs.img/23955jsL.png]]
@@ -134,6 +135,7 @@
 2. 将两序列的元素结合
 [[/home/king/.emacs.img/23955w2R.png]]
 [[/home/king/.emacs.img/239559AY.png]]
+
 
 *** 11.6.4 互换元素
 [[/home/king/.emacs.img/23955KLe.png]]
@@ -181,3 +183,116 @@
 [[/home/king/.emacs.img/15449nOa.png]]
 [[/home/king/.emacs.img/154490Yg.png]]
 
+
+
+** 11.8 变序型算法
+*** 11.8.1 反转元素次序
+1. 反转元素次序
+[[/home/king/.emacs.img/15449Ots.png]]
+
+
+
+*** 11.8.2 旋转元素
+1. 旋转序列内的元素
+[[/home/king/.emacs.img/15449NBC.png]]
+
+2. 复制并同时旋转元素
+[[/home/king/.emacs.img/15449aLI.png]]
+[[/home/king/.emacs.img/15449nVO.png]]
+
+
+*** 11.8.3 排列元素
+[[/home/king/.emacs.img/154490fU.png]]
+
+
+*** 11.8.4 对元素重新洗牌
+1. 以随机数重新洗牌
+[[/home/king/.emacs.img/15449Bqa.png]]
+
+
+*** 11.8.5 将元素向前搬
+[[/home/king/.emacs.img/20116R_T.png]]
+
+
+*** 11.8.6 划分为两个子区间
+[[/home/king/.emacs.img/20116rTg.png]]
+
+** 11.9 排序算法
+
+*** 11.9.1 对所有元素排序
+[[/home/king/.emacs.img/20116Fos.png]]
+[[/home/king/.emacs.img/20116Syy.png]]
+
+*** 11.9.2 局部排序
+[[/home/king/.emacs.img/20116E8B.png]]\
+
+
+[[/home/king/.emacs.img/20116RGI.png]]
+[[/home/king/.emacs.img/20116eQO.png]]
+
+
+*** 11.9.3 根据第n个元素排序
+
+[[/home/king/.emacs.img/20116raU.png]]
+
+*** 11.9.4 Heap算法
+    [[/home/king/.emacs.img/201164ka.png]]
+[[/home/king/.emacs.img/20116Fvg.png]]
+[[/home/king/.emacs.img/20116fDt.png]]
+[[/home/king/.emacs.img/20116sNz.png]]
+
+
+** 11.10 已排序区间算法
+
+*** 11.10.1 查找元素
+1. 检查某个元素是否存在
+[[/home/king/.emacs.img/20116eXC.png]]
+
+2. 检查数个元素是否存在
+[[/home/king/.emacs.img/201164rO.png]]
+[[/home/king/.emacs.img/20116F2U.png]]
+
+3. 查找第一个或最后一个可能位置
+[[/home/king/.emacs.img/20116SAb.png]]
+
+4. 查找第一个和最后一个可能位置
+[[/home/king/.emacs.img/20116fKh.png]]
+
+*** 11.10.2 合并元素
+1. 两个已排序集合的总和
+[[/home/king/.emacs.img/20116sUn.png]]
+[[/home/king/.emacs.img/201165et.png]]
+
+
+2. 两个已排序集合的并集
+[[/home/king/.emacs.img/20116Gpz.png]]
+
+
+3. 两个已排序集合的交集
+[[/home/king/.emacs.img/201164yC.png]]
+
+4. 两个已排序集合的差集
+[[/home/king/.emacs.img/20116F9I.png]]
+
+5.合并连贯之已排序区间
+[[/home/king/.emacs.img/20116fRV.png]]
+
+** 11.11 数值算法
+
+*** 11.11.1 运算后产生结果
+1. 对数列进行某种运算
+[[/home/king/.emacs.img/20116sbb.png]]
+
+
+
+2. 计算两数列的内积
+[[/home/king/.emacs.img/201165lh.png]]
+
+
+*** 11.11.2 相对数列和绝对数列之间的转换
+1. 将相对值转换成绝对值
+[[/home/king/.emacs.img/20116Gwn.png]]
+
+2. 将绝对值转换成相对值
+[[/home/king/.emacs.img/20116T6t.png]]
+[[/home/king/.emacs.img/20116gE0.png]]
