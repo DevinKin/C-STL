@@ -43,7 +43,7 @@ class Stack {
 				throw ReadEmptyStack();
 			}
 
-			T elem(c.back());
+			T elem(c.back());			// construct the last elem T before pop_back()
 			c.pop_back();
 			return elem;
 		}
