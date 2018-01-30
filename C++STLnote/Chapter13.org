@@ -1,0 +1,18 @@
+* 13章 字符串
+
+** 13.2 String Class细节描述
+[[/home/king/.emacs.img/18851gWJ.png]]
+
+1. 具体的String类型
+[[/home/king/.emacs.img/18851tgP.png]]
+
+
+*** 13.2.3 构造函数和析构函数
+    [[/home/king/.emacs.img/18851U_h.png]]
+
+*** 13.2.4 String 和 C-String
+[[/home/king/.emacs.img/25115HZJ.png]]
+
+
+*** 13.2.5 大小和容量
+[[/home/king/.emacs.img/25115UjP.png]]
